@@ -1,3 +1,4 @@
+<?php echo 'Hello, World!'; ?>
 <?php
 /**
  * Copyright © Magento, Inc. All rights reserved.
