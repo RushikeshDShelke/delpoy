@@ -1,4 +1,3 @@
-<?php echo 'Hello, Dev server'; ?>
 <?php
 /**
  * Copyright © Magento, Inc. All rights reserved.
