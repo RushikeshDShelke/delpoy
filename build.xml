@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="php testing" default="run task">
+    <property name="basedir" value="." />
+    </target>
+   <target name="casperjs" description="Run casperjs">
+         <exec executable="ssh" failonerror="true">
+              <arg line="dev1@52.23.236.188  casperjs sample.js" />
+         </exec>
+   </target>
+   <target name="run task" description="Run target one by one">
+      <sequential>
+         <antcall target="casperjs" />
+      </sequential>
+   </target>
+</project>
