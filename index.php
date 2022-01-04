@@ -1,4 +1,5 @@
 <?php
+HI GIT
 
 /**
  * Application entry point
