@@ -1,3 +1,4 @@
+<?php echo 'Hello, stage!'; ?>
 <?php
 /**
  * Copyright © Magento, Inc. All rights reserved.
