@@ -1,4 +1,4 @@
-<?php echo 'Hello, stage Pipline!'; ?>
+<?php echo 'Hello, stage Pipline Rushi!'; ?>
 <?php
 /**
  * Copyright © Magento, Inc. All rights reserved.
