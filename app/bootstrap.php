@@ -1,4 +1,4 @@
-<?php echo 'Hello,CICD!'; ?>
+<?php echo 'Hello,DEV1'; ?>
 <?php
 /**
  * Copyright © Magento, Inc. All rights reserved.
