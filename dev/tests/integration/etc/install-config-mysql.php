@@ -5,7 +5,7 @@
  */
 
 return [
-    'db-host' => '44.202.59.199',
+    'db-host' => '184.72.207.165',
     'db-user' => 'root',
     'db-password' => 'Dev@1Nvc6wSa8',
     'db-name' => 'jenkins',
