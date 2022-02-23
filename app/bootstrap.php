@@ -1,4 +1,4 @@
-/**<?php echo 'Hello,vimal DEV2'; ?> */
+
 <?php
 /**
  * Copyright © Magento, Inc. All rights reserved.
