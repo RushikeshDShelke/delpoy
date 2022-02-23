@@ -18,7 +18,7 @@
         <!-- Memory tests run first to prevent influence of other tests on accuracy of memory measurements -->
        <!--<testsuite name="Memory Usage Tests">
             <file>testsuite/Magento/MemoryUsageTest.php</file>
-        </testsuite>
+        </testsuite>-->
       <!--<testsuite name="Magento Integration Tests">
             <directory>testsuite</directory>
             <directory>../../../app/code/*/*/Test/Integration</directory>
